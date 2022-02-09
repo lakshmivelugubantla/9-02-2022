@@ -1,0 +1,11 @@
+num1 = int(input("Enter first number: "))      
+num2 = int(input("Enter second number: "))  
+if num1 >= num2:         
+         print("Fisrt number is greater than the second number.")
+else:   
+     print("Second number is greater than the First number.")
+     
+    # output:
+    Enter first number: 20
+Enter second number: 10
+Fisrt number is greater than the second number.
